@@ -1,0 +1,72 @@
+{
+    "Home":{
+        "1":"Início"
+    },
+    "About":{
+        "1":"Quem sou"
+    },
+    "Resume":{
+        "1":"Currículo"
+    },
+    "Portfolios":{
+        "1":"Projetos"
+    },
+    "Contact":{
+        "1":"Contato"
+    },
+    "PortfolioFooter":{
+        "1":"Portfólio - Todos direitos reservados"
+    },
+    "About1":"Quem Sou Eu",
+    "About2":"Eu me chamo ",
+    "About3":"Desenvolvedor de Software FullStack. Gosto de resolver problemas e acredito na tecnologia como ferramenta que pode tornar o mundo um lugar melhor. Estou sempre buscando aprimorar meus conhecimentos estudando novas ferramentas e tecnologias. Tenho vivência com trabalho sob pressão e prazo de entrega, habilidades adquiridas prestando serviços para grandes empresas como General Motors e Mercedez-Benz. Comecei na programação em 2020 com a linguagem MQL5, automatizando operações na bolsa de valores nacional. Gostei tanto de programar, que decidi fazer disso minha carreira e escolhi desenvolver projetos web para ajudar pessoas com aplicações que facilitem a vida delas!",
+    "About4":"Nome Completo",
+    "About5":"Idade",
+    "About6":"Nacionalidade",
+    "About7":"Idiomas",
+    "About8":"Localização",
+    "About9":"Brasileiro",
+    "About10":"Português e  Inglês",
+    "About11":"Ceará, Brasil",
+    "About12":"Baixar CV",
+    "Services":"SERVIÇOS",
+    "Services1":"Solução de Problemas",
+    "Home1":"Olá Mundo, eu sou ",
+    "Home2":"Este é o meu portfólio pessoal, aqui você pode encontrar um pouco mais sobre mim e meu trabalho. ",
+    "Skill":"IDIOMAS ",
+    "Skill1":"PORTUGUÊS ",
+    "Skill2":"INGLÊS ",
+    "ResumeItem":"Currículo ",
+    "ResumeItem1":"Experiência",
+    "ResumeItem2":"Focado em programação em PLC para automação industrial. Realizava a programação e ajuste fino de apertadeiras eletrônicas de alta precisão via software e atendimento ao cliente em linha de produção em grandes empresas como General Motors e Mercedez-Benz.",
+    "ResumeItem3":"Desenvolvimento de sistemas de negociação(Expert Advisors) voltados para a bolsa de valores nacional, baseados em indicadores próprios, estratégias personalizadas e gestão de risco com fundamento estatístico. Baseado na linguagem de programação MQL5.",
+    "ResumeItem4":"Educação",
+    "ResumeItem5":"Bacharelado - Engenharia de Software",
+     "ResumeItem11": "Especificação, desenvolvimento, manutenção e criação de software, com aplicação de tecnologias e práticas de gerência de projetos, visando a organização, produtividade e qualidade do projeto",
+    "ResumeItem6":"Soulcode Academy é um Bootcamp 100% remoto e ao vivo, com duração de 16 semanas. Neste Bootcamp, os alunos aprendem atraves de revisão de codigo, pair programming, leitura e tarefas individuais. Esse curso ensina tudo que você precisa saber para desenvolver aplicações web do completo zero e se tornar um profissional na área da programação com foco em Angular e Java/Spring boot. Aprendi como criar sites sólidos, funcionais e aplicações atrativas utilizando o que há de mais novo em tecnologia. O curso abrange tanto o front com Angular e o backend com Java/Spring Boot, onde desenvolvemos aplicações completas, desde a arquitetura e tratamento de dados no backend, até a estilização e funcionalidades no frontend.",
+    "ResumeItem7":"Técnico Mecatrônico",
+    "ResumeItem8":"Focado em programação em PLC para automação industrial. Realização de programação e ajuste fino de apertadeiras eletrônicas de alta precisão via software e atendimento ao cliente em linha de produção em grandes empresas como General Motors e Mercedez-Benz",
+    "ResumeItem9":"Desenvolvedor Angular Júnior",
+    "ResumeItem10":"Foi solicitado pelo cliente a migração de todo o seu site que estava rodando com Javascript, HTML,  CSS, Jquery para Angular/Typescript e Firebase. Realizamos a entrega da migração completa do site onde foi possível adquirir e aprimorar conhecimentos em Cloud Functions, Angular, Typescript, Bootstrap e Firebase.Também decidimos incluir a tecnologia PWA (Progress Web App) na aplicação, onde permite a um Website nomal ser instalado nos dispositivos móveis e desktop.",
+    "Contact1":"Contato",
+    "Contact2":"Telefone",
+    "Contact3":"Endereço",
+    "Contact4":"Brasil",
+    "SignUp":"Permitido 20 caracteres ou menos",
+    "SignUp1":"Campo obrigatório",
+    "SignUp2":"Email inválido",
+    "SignUp3":"Email obrigatório",
+    "SignUp4":"Mensagem deve ter pelo menos 2 caracteres.",
+    "SignUp5":"Mensagem não deve exceder 30 caracteres",
+    "SignUp6":"Por favor, escreva sua mensagem!",
+    "SignUp7":"mensagem enviada!",
+    "SignUp8":"Enviar",
+    "SignUp9":"Entre em contato",
+    "Project3":"Criação de um mini-game onde o usuário deverá acertar uma palavra aleatória, à partir de suas letras. Durante o projeto foram aplicados diversos conceitos de ReactJS como por exemplo a utilização e gerenciamento de states, utilização de hooks como useEffect, useCallback, além da componentização de elementos. Além do que foi proposto no trabalho inicial, realizei algumas alterações de layouts de forma a deixar a experiência mais fluida, alterei a fonte dos textos e inseri uma animação para cada palavra acertada.",
+    "Project2":"Landing page desenvolvida com React. Projeto desenvolvido com design totalmente responsivo, utilizando CSS e Material. A idéia do projeto é um site de viagens com os lugares mais belos do mundo!",
+    "Project1":"Projeto Helpr Manager FullStack desenvolvido com Angular/Typescript no frontend, e Java/Spring Boot no backend, onde realiza o consumo de uma REST API. Além de SCSS, utilizamos Bootstrap e Angular Material na estilização do projeto. A principal linguagem utilizada foi Java, também utilizamos outras tecnologias como MySQL para armazenamento de dados, e ferramentas do Spring como: JPA, Hibernate e Spring Security com integração de criptografia com JWT. Também foi incluído no projeto a função de PWA (Progress Web Apps), onde é disponibilizado o download da nossa aplicação para desktop e smartphones. E tratamento de dados via IndexedDB para cacheamento de dados localmente quando o usuário fizer a adição de um chamado, técnico ou cliente sem conexão com a internet. Após o reestabelecimento da conexão os dados cacheados são enviados ao backend e apagados do banco de dados do navegador.",
+    "Project4":"A Be Dev é uma rede social para desenvolvedores. Projeto desenvolvido com Angular e Firebase, que contém autenticação integrada com o github, chat em tempo real, postagem de projetos, comentário e curtidas em projetos de outros usuários, entre outros. O desenvolvimento do projeto foi feito com Angular/Typescript no frontend com auxílio do Material para o design e Firebase para backend/database. Também foi incluído no projeto a função de PWA (Progress Web Apps), onde é disponibilizado o download da nossa aplicação para desktop e smartphones.",
+    "Project5":"Projeto To-do List criado com Angular, para fixar os conhecimentos básicos como NgModel e as diretivas como: NgClass, NgIf, NgFor. E foi utilizado o armazenamento de dados no Local Storage para os dados não serem perdidos ao recarregar a página. ",
+    "Project6":"Imagine que você foi contratado para desenvolver parte de uma landing page com foco na venda de planos de internet. O sistema de checkout já foi desenvolvido, então você deve desenvolver a página Home e de Ofertas. Ao acessar o site, o cliente se depara com uma mensagem de boas vindas e um formulário requisitando seu cep para prosseguir. Você deve utilizar a API da ViaCep para captar os dados do endereço. Ao avançar, é mostrada uma tela com uma mensagem contendo endereço informado, as ofertas dispovíveis para o cliente e um botão fixo no canto inferior direito da tela com a mensagem “Ops, errei meu cep!”, que, ao ser clicado, volta para a página anterior."
+
+}
